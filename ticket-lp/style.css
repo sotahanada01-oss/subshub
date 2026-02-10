@@ -66,3 +66,27 @@ body {
         font-size: 1rem;
     }
 }
+
+.section {
+    padding: 80px 20px;
+    background: #111;
+    color: #fff;
+    text-align: center;
+}
+
+.features {
+    list-style: none;
+    padding: 0;
+    margin: 24px 0;
+}
+
+.features li {
+    margin: 12px 0;
+    font-size: 1.1rem;
+}
+
+.price {
+    font-size: 1.4rem;
+    margin: 24px 0;
+}
+    
