@@ -112,3 +112,7 @@ body {
         padding-top: 120px;
     }
 }
+
+.price,
+.btn {
+    position: static !important;
