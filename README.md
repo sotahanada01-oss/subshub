@@ -2,8 +2,10 @@
 
 LP制作の練習・公開用リポジトリです。
 
-## 公開ページ
-- Plant LP
-- Movie LP
+## 公開LP
+- 🎬 Movie Subscription
+- 🌱 Plant Subscription
+- 🎙️ Artist Exclusive
+- 🎟️ Live Ticket Pass
 
-今後、他ジャンルのLPも追加予定です。
+今後もジャンル別に追加予定。
