@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background: #111;
+  color: #fff;
+  text-align: center;
+}
+
+.top-hero {
+  padding: 120px 20px 60px;
+}
+
+.top-hero h1 {
+  font-size: 3rem;
+  margin-bottom: 16px;
+}
+
+.lp-grid {
+  display: grid;
+  gap: 20px;
+  padding: 40px 20px;
+}
+
+.card {
+  display: block;
+  padding: 20px;
+  background: #1c1c1c;
+  border-radius: 12px;
+  text-decoration: none;
+  color: #fff;
+  transition: transform 0.2s, background 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  background: #ff4d00;
+}
